@@ -7,7 +7,7 @@ Welcome to my resume repository. This is where you’ll find a downloadable vers
 
 ## 📄 Download Resume
 
-📥 Click to [**Download My Resume (PDF)**](Electronics and Cloud Engineer)  
+📥 Click to [**Download My Resume (PDF)**](https://github.com/sidortal/MyResume/blob/main/Siddhesh_Bhanudas_Dangade.pdf)
 > *(Resume gets updated regularly, contact me with below email for any bugs or glitches while downloading docs or viewing repo's )*
 
 ---
