@@ -57,11 +57,9 @@ Here’s a quick overview of the areas I specialize in:
 
 If you like what you see or want to collaborate:
 
-📬 Email: `dangadesid@gmail.com`  
-🔗 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/siddheshdangade)  
-🌍 Portfolio: [yourname.vercel.app](https://siddhesh-beryl.vercel.app/)
-🛠️ Badges: (https://www.credly.com/users/siddhesh-dangade)
+📬 **Email**: dangadesid@gmail.com  
+🔗 **LinkedIn**: [Profile](https://www.linkedin.com/in/siddheshdangade)  
+🌍 **Portfolio**: [Website](https://siddhesh-beryl.vercel.app/)  
+🛠️ **Badges**: [Credly Verified](https://www.credly.com/users/siddhesh-dangade)
+
 ---
-
-Made with ❤️ and Markdown
-
